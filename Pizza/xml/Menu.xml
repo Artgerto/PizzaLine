@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+    <Item>
+        <Id>1</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img1.jpg</ImgSrc>
+        <Title>Утка Терияки</Title>
+        <Description>Нежнейшее тесто пиццы и филе утки под бесподобным соусом "Терияки".</Description>
+        <Composition>Томатный соус, филе утки, моцарелла, ананасы, черный кунжут и соус терияки</Composition>
+        <Price>595</Price>
+        <EnergyValue>240,6 ккал</EnergyValue>
+        <Carbohydrates>30,7 г</Carbohydrates>
+        <Proteins>9,5 г</Proteins>
+        <Fats>8,2 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>600±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>2</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img2.jpg</ImgSrc>
+        <Title>Супермясная</Title>
+        <Description>Самое лучшее мясо цыпленка (филе), а также любимая всеми говядина с беконом!</Description>
+        <Composition>Томатный соус, цыпленок, говядина (фарш), пикантная пепперони, моцарелла, пикантная чоризо и бекон</Composition>
+        <Price>685</Price>
+        <EnergyValue>279,9 ккал</EnergyValue>
+        <Carbohydrates>24,8 г</Carbohydrates>
+        <Proteins>11,2 г</Proteins>
+        <Fats>15,1 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>670±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>3</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img3.jpg</ImgSrc>
+        <Title>Четыре сыра</Title>
+        <Description>Любимые сыры в одной пицце</Description>
+        <Composition>Томатный соус, моцарелла, сыр блючиз и смесь сыров чеддер и пармезан</Composition>
+        <Price>595</Price>
+        <EnergyValue>199,6 ккал</EnergyValue>
+        <Carbohydrates>24,4 г</Carbohydrates>
+        <Proteins>8,8 г</Proteins>
+        <Fats>7,4 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>614±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>4</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img4.jpg</ImgSrc>
+        <Title>Фирменная</Title>
+        <Description>Грамотное сочетание компонентов</Description>
+        <Composition>Томатный соус, говядина (фарш), ветчина, пикантная пепперони, лук красный, маслины, сладкий перец, шампиньоны и моцарелла</Composition>
+        <Price>595</Price>
+        <EnergyValue>203,9 ккал</EnergyValue>
+        <Carbohydrates>22,1 г</Carbohydrates>
+        <Proteins>8,6 г</Proteins>
+        <Fats>8,9 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>780±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>5</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img5.jpg</ImgSrc>
+        <Title>Мясная</Title>
+        <Description>Пепперони, ветчина и цыпленок - все для сытого перекуса</Description>
+        <Composition>Томатный соус, цыпленок, ветчина, пикантная пепперони, пикантная чоризо и моцарелла</Composition>
+        <Price>595</Price>
+        <EnergyValue>237,7  ккал</EnergyValue>
+        <Carbohydrates>26,4 г</Carbohydrates>
+        <Proteins>11,6 г</Proteins>
+        <Fats>9,5 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>630±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>6</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img6.jpg</ImgSrc>
+        <Title>Грибы и ветчина</Title>
+        <Description>Для любителей ветчины и шампиньенов</Description>
+        <Composition>Томатный соус, моцарелла, ветчина и шампиньоны</Composition>
+        <Price>475</Price>
+        <EnergyValue>189 ккал</EnergyValue>
+        <Carbohydrates>23,9 г</Carbohydrates>
+        <Proteins>9,3 г</Proteins>
+        <Fats>6,1 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>480±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>7</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img7.jpg</ImgSrc>
+        <Title>Маргарита</Title>
+        <Description>Потрясающая классика</Description>
+        <Composition>Томатный соус, томаты, моцарелла и орегано</Composition>
+        <Price>475</Price>
+        <EnergyValue>182 ккал</EnergyValue>
+        <Carbohydrates>24,4 г</Carbohydrates>
+        <Proteins>7,9 г</Proteins>
+        <Fats>5,7 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>630±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>8</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img8.jpg</ImgSrc>
+        <Title>Сырная</Title>
+        <Description>Только сыр и паста</Description>
+        <Composition>Томатный соус и моцарелла</Composition>
+        <Price>475</Price>
+        <EnergyValue>223 ккал</EnergyValue>
+        <Carbohydrates>27 г</Carbohydrates>
+        <Proteins>9,8 г</Proteins>
+        <Fats>8,3 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>570±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>9</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img9.jpg</ImgSrc>
+        <Title>Дон Бекон</Title>
+        <Description>Любимая всеми пепперони и бекон</Description>
+        <Composition>Томатный соус, цыпленок, пикантная пепперони, лук красный, моцарелла и бекон</Composition>
+        <Price>595</Price>
+        <EnergyValue>277 ккал</EnergyValue>
+        <Carbohydrates>24,5 г</Carbohydrates>
+        <Proteins>9,7 г</Proteins>
+        <Fats>15,4 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>620±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>10</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img10.jpg</ImgSrc>
+        <Title>Пепперони</Title>
+        <Description>Пепперони - наш основной ингридиент в этой пицце</Description>
+        <Composition>Томатный соус, пикантная пепперони и моцарелла</Composition>
+        <Price>575</Price>
+        <EnergyValue>250 ккал</EnergyValue>
+        <Carbohydrates>26,9 г</Carbohydrates>
+        <Proteins>10,5 г</Proteins>
+        <Fats>10,9 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>550±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>11</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img11.jpg</ImgSrc>
+        <Title>Итальянская</Title>
+        <Description>Как в Италии, только лучше</Description>
+        <Composition>Томатный соус, пикантная пепперони, шампиньоны, моцарелла, маслины и орегано</Composition>
+        <Price>575</Price>
+        <EnergyValue>220 ккал</EnergyValue>
+        <Carbohydrates>27,1 г</Carbohydrates>
+        <Proteins>8,3 г</Proteins>
+        <Fats>8,4 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>540±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>12</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img12.jpg</ImgSrc>
+        <Title>Сырный цыпленок</Title>
+        <Description>Тающий сыр на нежном курином филе</Description>
+        <Composition>Сырный соус, цыпленок, томаты и моцарелла</Composition>
+        <Price>575</Price>
+        <EnergyValue>196 ккал</EnergyValue>
+        <Carbohydrates>23,6 г</Carbohydrates>
+        <Proteins>9,8 г</Proteins>
+        <Fats>6,8 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>670±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>13</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img13.jpg</ImgSrc>
+        <Title>Мексиканская</Title>
+        <Description>Острый вкус со сладким перцем. Ух!</Description>
+        <Composition>Томатный соус, цыпленок, сладкий перец, лук красный, шампиньоны, моцарелла, томаты и острый перец халапеньо</Composition>
+        <Price>575</Price>
+        <EnergyValue>164 ккал</EnergyValue>
+        <Carbohydrates>23,5 г</Carbohydrates>
+        <Proteins>7,5 г</Proteins>
+        <Fats>4,3 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>670±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>14</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img14.jpg</ImgSrc>
+        <Title>Цыпленок барбекю</Title>
+        <Description>Знаменитый соус с цыпленком под сыром моцарела</Description>
+        <Composition>Томатный соус, цыпленок, лук красный, моцарелла, соус барбекю и бекон</Composition>
+        <Price>575</Price>
+        <EnergyValue>251 ккал</EnergyValue>
+        <Carbohydrates>24,3 г</Carbohydrates>
+        <Proteins>9,7 г</Proteins>
+        <Fats>12,5 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>650±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>15</Id>
+        <Category>Пицца</Category>
+        <ImgSrc>img/pizza/img15.jpg</ImgSrc>
+        <Title>Чизбургер-пицца</Title>
+        <Description>Говядина, огурцы, сыр - все как в настоящем чизбургере</Description>
+        <Composition>Говядина (фарш), сырный соус, бекон, лук красный, моцарелла, томаты и огурцы консервированные</Composition>
+        <Price>575</Price>
+        <EnergyValue>208 ккал</EnergyValue>
+        <Carbohydrates>22,8 г</Carbohydrates>
+        <Proteins>7,3 г</Proteins>
+        <Fats>9,8 г</Fats>
+        <Diametr> 30 см </Diametr>
+        <Weight>660±50 г</Weight>
+    </Item>
+    <Item>
+        <Id>16</Id>
+        <Category>Пироги</Category>
+        <ImgSrc>img/pie/pie1.jpeg</ImgSrc>
+        <Title>Осетинский пирог с клубникой</Title>
+        <Description>Нежнейшее тесто с клубничным кремфилом.</Description>
+        <Composition>Тесто, Клубника, Кремфил клубничный, Масло сливочное</Composition>
+        <Price>414</Price>
+        <EnergyValue>209 ккал</EnergyValue>
+        <Carbohydrates>37 г</Carbohydrates>
+        <Proteins>4 г</Proteins>
+        <Fats>5 г</Fats>
+        <Weight>775 г</Weight>
+    </Item>
+    <Item>
+        <Id>17</Id>
+        <Category>Пироги</Category>
+        <ImgSrc>img/pie/pie2.jpeg</ImgSrc>
+        <Title>Осетинский пирог с курицей и грибами</Title>
+        <Description>Куриное филе со сливками, а также соус Киккоман</Description>
+        <Composition>Куриное филе, Шампиньоны, Сливки, Перец черный молотый, Лук репчатый, Масло сливочное, Соус соевый Киккоман</Composition>
+        <Price>599</Price>
+        <EnergyValue>218 ккал</EnergyValue>
+        <Carbohydrates>23 г</Carbohydrates>
+        <Proteins>10 г</Proteins>
+        <Fats>10 г</Fats>
+        <Weight>800 г</Weight>
+    </Item>
+    <Item>
+        <Id>18</Id>
+        <Category>Пироги</Category>
+        <ImgSrc>img/pie/pie3.jpeg</ImgSrc>
+        <Title>Осетинский пирог с говядиной</Title>
+        <Description>Говядина - лучший выбор!</Description>
+        <Composition>Перец черный молотый, Говядина, Сливочный соус, Лук репчатый, Масло сливочное, Соус соевый Киккоман</Composition>
+        <Price>579</Price>
+        <EnergyValue>240 ккал</EnergyValue>
+        <Carbohydrates>23 г</Carbohydrates>
+        <Proteins>10 г</Proteins>
+        <Fats>11 г</Fats>
+        <Weight>720 г</Weight>
+    </Item>
+    <Item>
+        <Id>19</Id>
+        <Category>Пироги</Category>
+        <ImgSrc>img/pie/pie4.jpeg</ImgSrc>
+        <Title>Осетинский пирог с вишней</Title>
+        <Description>Найдите целую вишню!</Description>
+        <Composition>Тесто, Вишня, Фрутфил вишневый, Масло сливочное</Composition>
+        <Price>414</Price>
+        <EnergyValue>213 ккал</EnergyValue>
+        <Carbohydrates>38 г</Carbohydrates>
+        <Proteins>4 г</Proteins>
+        <Fats>5 г</Fats>
+        <Weight>775 г</Weight>
+    </Item>
+    <Item>
+        <Id>20</Id>
+        <Category>Пироги</Category>
+        <ImgSrc>img/pie/pie5.jpeg</ImgSrc>
+        <Title>Осетинский пирог с сыром Сулугуни</Title>
+        <Description>Для любителей сыров или вегетарианцев</Description>
+        <Composition>Тесто, Сыр сулугуни, Масло сливочное</Composition>
+        <Price>689</Price>
+        <EnergyValue>277 ккал</EnergyValue>
+        <Carbohydrates>24 г</Carbohydrates>
+        <Proteins>15 г</Proteins>
+        <Fats>13 г</Fats>
+        <Weight>700 г</Weight>
+    </Item>
+    <Item>
+        <Id>21</Id>
+        <Category>Пироги</Category>
+        <ImgSrc>img/pie/pie6.jpeg</ImgSrc>
+        <Title>Осетинский пирог с картофелем и сыром</Title>
+        <Description>Будет отличным дополнением к мясным пирогам</Description>
+        <Composition>Тесто, Сыр сулугуни, Сыр адыгейский, Зелень, Масло сливочное, Картофель</Composition>
+        <Price>455</Price>
+        <EnergyValue>205 ккал</EnergyValue>
+        <Carbohydrates>25 г</Carbohydrates>
+        <Proteins>8 г</Proteins>
+        <Fats>8 г</Fats>
+        <Weight>795 г</Weight>
+    </Item>
+    <Item>
+        <Id>22</Id>
+        <Category>Горячие блюда</Category>
+        <ImgSrc>img/hotDishes/hot5.jpeg</ImgSrc>
+        <Title>Суп Сливочный с угрем</Title>
+        <Description>Нежнейший бульон и угорь</Description>
+        <Composition>Угорь, Лук зеленый, Вакаме, Сливки, Рис</Composition>
+        <Price>319</Price>
+        <EnergyValue>97 ккал</EnergyValue>
+        <Carbohydrates>3 г</Carbohydrates>
+        <Proteins>6 г</Proteins>
+        <Fats>7 г</Fats>
+        <Weight>220 г</Weight>
+    </Item>
+    <Item>
+        <Id>23</Id>
+        <Category>Горячие блюда</Category>
+        <ImgSrc>img/hotDishes/hot6.jpeg</ImgSrc>
+        <Title>Суп Сливочный с креветкой</Title>
+        <Description>Будет отличным началом обеда</Description>
+        <Composition>Лук зеленый, Тигровые креветки, Вакаме, Сливки, Рис</Composition>
+        <Price>299</Price>
+        <EnergyValue>102 ккал</EnergyValue>
+        <Carbohydrates>4 г</Carbohydrates>
+        <Proteins>6 г</Proteins>
+        <Fats>7 г</Fats>
+        <Weight>265 г</Weight>
+    </Item>
+    <Item>
+        <Id>24</Id>
+        <Category>Горячие блюда</Category>
+        <ImgSrc>img/hotDishes/hot1.jpg</ImgSrc>
+        <Title>Кукуруза, 2 шт</Title>
+        <Description>Два сочных початка кукурузы со сливочным маслом и солью</Description>
+        <Composition>Кукуруза</Composition>
+        <Price>240</Price>
+        <EnergyValue>235 ккал</EnergyValue>
+        <Carbohydrates>45 г</Carbohydrates>
+        <Proteins>8 г</Proteins>
+        <Fats>3 г</Fats>
+        <Weight>250±70 г</Weight>
+    </Item>
+    <Item>
+        <Id>25</Id>
+        <Category>Горячие блюда</Category>
+        <ImgSrc>img/hotDishes/hot2.jpg</ImgSrc>
+        <Title>Картофельные оладьи, 8 шт</Title>
+        <Description>Картофельные оладьи в панировке, приготовленные в печи</Description>
+        <Composition>Картофель, специи, панировка</Composition>
+        <Price>200</Price>
+        <EnergyValue>168 ккал</EnergyValue>
+        <Carbohydrates>22,9 г</Carbohydrates>
+        <Proteins>6,5 г</Proteins>
+        <Fats>2,7 г</Fats>
+        <Weight>200±20 г</Weight>
+    </Item>
+    <Item>
+        <Id>26</Id>
+        <Category>Горячие блюда</Category>
+        <ImgSrc>img/hotDishes/hot3.jpg</ImgSrc>
+        <Title>Крылья «Барбекю», 10 шт</Title>
+        <Description>Запечёные куриные крылья в маринаде из соуса «Барбекю»</Description>
+        <Composition>Куринные крылья, специи, соус "Барбекю"</Composition>
+        <Price>350</Price>
+        <EnergyValue>393,22 ккал</EnergyValue>
+        <Carbohydrates>29,8 г</Carbohydrates>
+        <Proteins>26,6 г</Proteins>
+        <Fats>16,9 г</Fats>
+        <Weight>280±30 г</Weight>
+    </Item>
+    <Item>
+        <Id>27</Id>
+        <Category>Горячие блюда</Category>
+        <ImgSrc>img/hotDishes/hot4.jpg</ImgSrc>
+        <Title>Картофель из печи</Title>
+        <Description>Ароматный картофель с орегано, приготовленный в печи</Description>
+        <Composition>Картофель, соус орегано</Composition>
+        <Price>160</Price>
+        <EnergyValue>167 ккал</EnergyValue>
+        <Carbohydrates>39 г</Carbohydrates>
+        <Proteins>5 г</Proteins>
+        <Fats>14 г</Fats>
+        <Weight>180 ± 20 г</Weight>
+    </Item>
+    <Item>
+        <Id>28</Id>
+        <Category>Напитки</Category>
+        <ImgSrc>img/drink/drink1.jpg</ImgSrc>
+        <Title>Кока-Кола, 1л</Title>
+        <Description>Знаменитый напиток с кофеином</Description>
+        <Composition>Очищенная газированная вода, натуральный краситель карамель, регуляторы кислотности (ортофосфорная кислота, цитрат натрия), подсластители (аспартам, ацесульфам калия), натуральные ароматизаторы, кофеин.</Composition>
+        <Price>135</Price>
+        <EnergyValue>0,02 ккал</EnergyValue>
+        <Carbohydrates>0 г</Carbohydrates>
+        <Proteins>0 г</Proteins>
+        <Fats>0 г</Fats>
+        <Weight>1 л</Weight>
+    </Item>
+    <Item>
+        <Id>29</Id>
+        <Category>Напитки</Category>
+        <ImgSrc>img/drink/drink2.jpg</ImgSrc>
+        <Title>Фанта, 1л</Title>
+        <Description>Взрывной вкус апельсина</Description>
+        <Composition>Вода, сахар, апельсиновый сок 3%, диоксид углерода, регулятор кислотности (лимонная кислота), стабилизаторы, подсластитель (сахаринат натрия), антиоксидант (аскорбиновая кислота), натуральные и идентичные натуральным ароматизаторы, консервант (бензоат натрия).</Composition>
+        <Price>135</Price>
+        <EnergyValue>102 ккал</EnergyValue>
+        <Carbohydrates>8 г</Carbohydrates>
+        <Proteins>0 г</Proteins>
+        <Fats>0 г</Fats>
+        <Weight>1 л</Weight>
+    </Item>
+    <Item>
+        <Id>30</Id>
+        <Category>Напитки</Category>
+        <ImgSrc>img/drink/drink3.jpg</ImgSrc>
+        <Title>Бон Аква газ, 0.5л</Title>
+        <Description>Вода Бон Аква газированная </Description>
+        <Composition>Вода</Composition>
+        <Price>85</Price>
+        <EnergyValue>30 ккал</EnergyValue>
+        <Carbohydrates>0 г</Carbohydrates>
+        <Proteins>0 г</Proteins>
+        <Fats>0 г</Fats>
+        <Weight>0.5 л</Weight>
+    </Item>
+    <Item>
+        <Id>31</Id>
+        <Category>Напитки</Category>
+        <ImgSrc>img/drink/drink4.jpg</ImgSrc>
+        <Title>Бон Аква, негаз., 0.5л</Title>
+        <Description>Вода Бон Аква негазированная</Description>
+        <Composition>Вода</Composition>
+        <Price>85</Price>
+        <EnergyValue>30 ккал</EnergyValue>
+        <Carbohydrates>0 г</Carbohydrates>
+        <Proteins>0 г</Proteins>
+        <Fats>0 г</Fats>
+        <Weight>0.5 л</Weight>
+    </Item>
+    <Item>
+        <Id>32</Id>
+        <Category>Напитки</Category>
+        <ImgSrc>img/drink/drink5.jpg</ImgSrc>
+        <Title>Сок Rich Апельсин, 1л</Title>
+        <Description>Новый вкус Изысканный апельсин.
+            Восстановленный. Для питания детей с 3-х лет.
+            Без добавления консервантов и красителей. </Description>
+        <Composition>Сок апельсиновый 100%</Composition>
+        <Price>125</Price>
+        <EnergyValue>48 ккал</EnergyValue>
+        <Carbohydrates>12 г</Carbohydrates>
+        <Proteins>0 г</Proteins>
+        <Fats>0 г</Fats>
+        <Weight>1 л</Weight>
+    </Item>
+    <Item>
+        <Id>33</Id>
+        <Category>Напитки</Category>
+        <ImgSrc>img/drink/drink6.jpg</ImgSrc>
+        <Title>Сок Rich Яблочный, 1л</Title>
+        <Description>Сок Rich яблочный осветленный 100%, 1л.
+            Новый вкус Благородное яблоко.
+            Восстановленный. Осветленный.
+            Для питания детей с 3-х лет.
+            Без добавления консервантов и красителей. </Description>
+        <Composition>Сок яблочный осветленный 100%</Composition>
+        <Price>125</Price>
+        <EnergyValue>48 ккал</EnergyValue>
+        <Carbohydrates>12 г</Carbohydrates>
+        <Proteins>0 г</Proteins>
+        <Fats>0 г</Fats>
+        <Weight>1 л</Weight>
+    </Item>
+</Items>

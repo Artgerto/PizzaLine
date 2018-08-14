@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <id>1</id>
+    <name>Оксана</name>
+    <surname>Лысенко</surname>
+    <mname>Игоревна</mname>
+    <email>oksana.lysenko.agent@gmail.com</email>
+    <phone>+7(050)-224-18-99</phone>
+    <address>Московский пр, 149В</address>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>2</id>
+    <name>Людмила</name>
+    <surname>Лысенко</surname>
+    <mname>Кирилловна</mname>
+    <email>ludm.lysenko.agent@mail.com</email>
+    <phone>+7(050)-224-18-99</phone>
+    <address>Московский пр, 149В</address>
+    <password>ludm5678</password>
+  </user>
+  <user>
+    <id>3</id>
+    <name>Олег</name>
+    <surname>Каменцев</surname>
+    <mname>Михайлович</mname>
+    <email>oleg@gmail.com</email>
+    <phone>+7(050)-225-18-99</phone>
+    <address>Московский пр, 149В</address>
+    <password>12345678</password>
+  </user>
+  <user>
+    <id>4</id>
+    <name>Иван</name>
+    <surname>Бурундуков</surname>
+    <mname>Сергеевич</mname>
+    <email>ivan@gmail.com</email>
+    <phone>+7(911)762-61-45</phone>
+    <address>Московский пр, 149В</address>
+    <password>v12345678</password>
+  </user>
+  <user>
+    <id>5</id>
+    <name>Маша</name>
+    <surname>Иванова</surname>
+    <mname>Сергеевна</mname>
+    <email>masha@gmail.com</email>
+    <phone>+7(999)761-60-46</phone>
+    <address>Бассейная, 64/2, кв. 123</address>
+    <password>ILoveMasha</password>
+  </user>
+</users>

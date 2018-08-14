@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews>
+  <review>
+    <name>Оксана</name>
+    <email>oksana.lysenko.agent@gmail.com</email>
+    <date>09.05.2018 18:43</date>
+    <text> Замечательное кафе! Прекрасная доставка, вежливый персонал</text>
+  </review>
+  <review>
+    <name>Иван</name>
+    <email>oksana.lysenko.agent1@gmail.com</email>
+    <date>11.05.2018 08:14</date>
+    <text> Оксана - молодец! Приходи в гости</text>
+  </review>
+  <review>
+    <name>Маша</name>
+    <email>masha@gmail.com</email>
+    <date>12.05.2018 18:17</date>
+    <text>Моментальная доставка! Пицца всегда теплая </text>
+  </review>
+</reviews>
